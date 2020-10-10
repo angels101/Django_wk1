@@ -1,0 +1,6 @@
+virtual/
+.env
+env.sh
+.vscode
+__pychache__/
+
